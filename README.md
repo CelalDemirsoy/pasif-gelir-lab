@@ -31,5 +31,3 @@ bir fikir & rehber platformudur.
 | Vite | Build tool |
 | CSS Modules | Stil yönetimi |
 
-
-```bash
